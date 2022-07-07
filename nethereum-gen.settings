@@ -1,0 +1,7 @@
+{
+    "projectName": "ExampleBaal",
+    "namespace": "ExampleBaal.Contracts",
+    "lang": 0,
+    "autoCodeGen": true,
+    "projectPath": "./ExampleBaal"
+}
